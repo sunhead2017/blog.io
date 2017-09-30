@@ -1,8 +1,8 @@
 ---
-layout:post
-title:hello world
-date:2017-09-30
-categories:blog
+layout: post
+title: hello world
+date: 2017-09-30
+categories: blog
 tags: [第一次]
 description:第一次试着自己发表一篇博文。不知成不成功。
 
